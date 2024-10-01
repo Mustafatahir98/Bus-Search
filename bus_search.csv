@@ -1,0 +1,496 @@
+OBJECTID,StaType,StnType,ZipCode,State,City,Address,StationName,lon,lat,Code
+1,Station Building (with waiting room),BUS,48801,MI,Alma,1105 Willow Run Drive,"Alma, MI",-84.644832,43.39172,AAM
+2,Curbside Bus Stop only (no shelter),BUS,12211,NY,Albany,737 Albany Shaker Road,"Albany, NY",-73.809184,42.744491,ABA
+3,Curbside Bus Stop only (no shelter),BUS,54421,WI,Colby,1210 North Division St.,"Abbotsford-Colby, WI",-90.314667,44.928553,ABB
+8,Station Building (with waiting room),BUS,8401,NJ,Atlantic City,1901 Atlantic Avenue,"Atlantic City, NJ",-74.434793,39.359556,ACB
+12,Curbside Bus Stop only (no shelter),BUS,4330,ME,Augusta,9 Industrial Drive,"Augusta, ME",-69.799133,44.355913,AGM
+13,Curbside Bus Stop only (no shelter),BUS,97520,OR,Ashland,499 Stadium Street,"Ashland, OR",-122.689591,42.185744,AHL
+15,Curbside Bus Stop only (no shelter),BUS,49706,MI,Alanson,7640 Burr Avenue,"Alanson, MI",-84.790596,45.440201,ALA
+20,Curbside Bus Stop only (no shelter),BUS,49707,MI,Alpena,1180 Michigan Highway 32 West,"Alpena, MI",-83.476459,45.062202,ALM
+28,Curbside Bus Stop only (no shelter),BUS,81210,CO,Almont,10366-10486 CO-135,"Almont, CO",-106.845967,38.665671,ANT
+29,Station Building (with waiting room),BUS,54911,WI,Appleton,100 East Washington Street,"Appleton, WI",-88.405852,44.263311,APP
+31,Curbside Bus Stop only (no shelter),BUS,95521,CA,Arcata,925 E Street,"Arcata, CA",-124.083805,40.868633,ARC
+35,Curbside Bus Stop only (no shelter),BUS,97103,OR,Astoria,900 Marine Drive,"Astoria, OR",-123.83329,46.19021,ART
+38,Curbside Bus Stop only (no shelter),BUS,93422,CA,Atascadero,6000 Capistrano Avenue,"Atascadero, CA",-120.66476,35.488953,ATA
+42,Station Building (with waiting room),BUS,4210,ME,Auburn,1707 S. Washington Street,"Auburn, ME",-70.266407,44.037697,AUR
+44,Station Building (with waiting room),BUS,18101,PA,Allentown,110 N 6th Street,"Allentown, PA",-75.471521,40.60405,AWN
+45,Station Building (with waiting room),BUS,97814,OR,Baker City,515 Campbell Street,"Baker City, OR",-117.813137,44.781551,BAK
+48,Station Building (with waiting room),BUS,4401,ME,Bangor,1039 Union Street,"Bangor, ME",-68.808747,44.816614,BAN
+51,Curbside Bus Stop only (no shelter),BUS,92311,CA,Barstow,1611 East Main St,"Barstow, CA",-116.998434,34.891277,BBS
+53,Curbside Bus Stop only (no shelter),BUS,97720,OR,Buchanan,42456 U.S. Highway 20,"Buchanan, OR",-118.628407,43.642314,BCH
+55,Station Building (with waiting room),BUS,48708,MI,Bay City,1124 Washington Avenue,"Bay City, MI",-83.886922,43.601847,BCY
+56,Curbside Bus Stop only (no shelter),BUS,5733,VT,Brandon,20 Park Street,"Brandon, VT",-73.08709,43.798342,BDN
+57,Curbside Bus Stop only (no shelter),BUS,34212,FL,Bradenton,8100 FL-64,"Bradenton-Ellenton, FL",-82.457451,27.48585,BDT
+58,Curbside Bus Stop only (no shelter),BUS,54107,WI,Bonduel,102 Express Way,"Bonduel, WI",-88.446964,44.729865,BDU
+62,Curbside Bus Stop only (no shelter),BUS,61080,IL,South Beloit,15766 Manchester Road,"South Beloit, IL",-88.989116,42.490067,BET
+64,Curbside Bus Stop only (no shelter),BUS,4915,ME,Belfast,22 Belmont Avenue,"Belfast, ME",-69.025984,44.422692,BFT
+65,Curbside Bus Stop only (no shelter),BUS,82834,WY,Buffalo,187 US Hwy 16,"Buffalo, WY",-106.65979,44.35732,BFW
+67,Curbside Bus Stop only (no shelter),BUS,49307,MI,Big Rapids,14219 Northland Drive,"Big Rapids, MI",-85.483612,43.673347,BGP
+69,Curbside Bus Stop only (no shelter),BUS,97712,OR,Brothers,34100 U.S. Highway 20,"Brothers, OR",-120.603551,43.814035,BHS
+70,Curbside Bus Stop only (no shelter),BUS,3570,NH,Berlin,318 Glen Avenue,"Berlin, NH",-71.18743,44.45904,BIN
+71,Curbside Bus Stop only (no shelter),BUS,15715,PA,Big Run,401 East Main Street,"Big Run, PA",-78.870218,40.968716,BIR
+72,Station Building (with waiting room),BUS,97415,OR,Brookings,Highway 101 & 5th Street,"Brookings, OR",-124.288311,42.054793,BKO
+73,Curbside Bus Stop only (no shelter),BUS,97106,OR,Banks,118 Sunset Avenue,"Banks, OR",-123.114035,45.617864,BKS
+76,Platform with Shelter,BUS,24061,VA,Blacksburg,291 Alumni Mall,"Blacksburg, VA",-80.418368,37.229907,BLK
+77,Curbside Bus Stop only (no shelter),BUS,15717,PA,Blairsville,1601 Old William Penn Highway,"Blairsville, PA",-79.219778,40.444688,BLS
+78,Station Building (with waiting room),BUS,5446,VT,Burlington,125 Pearl Street,"Burlington, VT",-73.214168,44.480327,BLT
+81,Curbside Bus Stop only (no shelter),BUS,97701,OR,Bend,334 Hawthorne Avenue,"Bend, OR",-121.301266,44.05822,BND
+84,Curbside Bus Stop only (no shelter),BUS,5201,VT,Bennington,215 Pleasant Street,"Bennington, VT",-73.19324,42.878777,BNI
+86,Curbside Bus Stop only (no shelter),BUS,97720,OR,Burns,230 Hines Boulevard,"Burns, OR",-119.064431,43.583713,BNS
+87,Curbside Bus Stop only (no shelter),BUS,83705,ID,Boise,3353 South Federal Way,"Boise, ID",-116.189037,43.571635,BOI
+91,Curbside Bus Stop only (no shelter),BUS,53913,WI,Baraboo,Commerce Parkway & Gateway Drive,"Baraboo, WI",-89.773676,43.459349,BRB
+93,Platform only (no shelter),BUS,2809,RI,Bristol,147 Thames Street,"Bristol, RI",-71.277462,41.668627,BRI
+98,Station Building (with waiting room),BUS,77802,TX,Bryan,3370 Texas Avenue,"Bryan, TX",-96.210055,30.382219,BRY
+101,Station Building (with waiting room),BUS,70802,LA,Baton Rouge,1253 Florida Boulevard,"Baton Rouge, LA",-91.176374,30.449741,BTR
+102,Station Building (with waiting room),BUS,5403,VT,South Burlington,1200 Airport Drive,"South Burlington, VT",-73.15546,44.469865,BTV
+104,Curbside Bus Stop only (no shelter),BUS,93427,CA,Buellton,237 East Highway 246,"Buellton, CA",-120.186595,34.61066,BUL
+106,Curbside Bus Stop only (no shelter),BUS,81211,CO,Buena Vista,117 N Railroad St.,"Buena Vista, CO",-106.131059,38.842897,BUV
+107,Platform only (no shelter),BUS,97731,OR,Beaver Marsh,100350 Highway 97,"Beaver Marsh, OR",-121.803189,43.134572,BVM
+108,Curbside Bus Stop only (no shelter),BUS,97225,OR,Beaverton,10470 Southwest Barnes Road,"Beaverton, OR",-122.78217,45.510223,BVT
+112,Station Building (with waiting room),BUS,82601,WY,Casper,601 North Center Street,"Casper, WY",-106.324772,42.856427,CAS
+113,Curbside Bus Stop only (no shelter),BUS,3818,NH,Conway,13 West Main Street,"Conway, NH",-71.126573,43.978298,CAY
+114,Curbside Bus Stop only (no shelter),BUS,81224,CO,Crested Butte,306 6th Street,"Crested Butte, CO",-106.980905,38.870357,CBC
+115,Curbside Bus Stop only (no shelter),BUS,97110,OR,Cannon Beach,1170 South Hemlock Street,"Cannon Beach, OR",-123.961842,45.889496,CBO
+118,Curbside Bus Stop only (no shelter),BUS,97420,OR,Coos Bay,126 East Market Avenue,"Coos Bay, OR",-124.213694,43.369039,CBY
+119,Curbside Bus Stop only (no shelter),BUS,92230,CA,Cabazon,49500 Seminole Drive,"Cabazon, CA",-116.798713,33.921492,CBZ
+120,Curbside Bus Stop only (no shelter),BUS,21613,MD,Cambridge,100 Heron Boulevard,"Cambridge, MD",-76.048392,38.561752,CDE
+122,Curbside Bus Stop only (no shelter),BUS,4856,ME,Rockport,20 Commercial Street,"Camden-Rockport, ME",-69.078634,44.199095,CDN
+123,Curbside Bus Stop only (no shelter),BUS,49319,MI,Cedar Springs,4010 17 Mile Road,"Cedar Springs, MI",-85.570486,43.219603,CDS
+125,Station Building (with waiting room),BUS,16830,PA,Clearfield,314 East Cherry Street,"Clearfield, PA",-78.43533,41.021095,CFD
+126,Curbside Bus Stop only (no shelter),BUS,99111,WA,Colfax,610 South Main St.,"Colfax, WA",-117.365156,46.875679,CFX
+127,Curbside Bus Stop only (no shelter),BUS,93614,CA,Coarsegold,35305 Highway 41,"Coarsegold, CA",-119.699676,37.261897,CGD
+128,Curbside Bus Stop only (no shelter),BUS,49721,MI,Cheboygan,403 North Huron Street,"Cheboygan, MI",-84.476287,45.646723,CHB
+129,Station Building (with waiting room),BUS,82007,WY,Cheyenne,3306 W College Drive,"Cheyenne, WY",-104.84869,41.10117,CHD
+131,Station Building (with waiting room),BUS,49720,MI,Charlevoix,103 Bridge Park Drive,"Charlevoix, MI",-85.257941,45.318448,CHL
+133,Curbside Bus Stop only (no shelter),BUS,97624,OR,Chiloquin,34333 Highway 97,"Chiloquin, OR",-121.883152,42.535691,CHN
+134,Curbside Bus Stop only (no shelter),BUS,54729,WI,Chippewa Falls,2750 120th Street,"Chippewa Falls, WI",-91.427794,44.883096,CHP
+141,Curbside Bus Stop only (no shelter),BUS,49601,MI,Cadillac,951 Casa Road,"Cadillac, MI",-85.389748,44.270402,CLC
+144,Platform with Shelter,BUS,91711,CA,Claremont,200 West First Street,"Claremont, CA",-117.716857,34.094469,CLM
+147,Curbside Bus Stop only (no shelter),BUS,48617,MI,Clare,10197 South Clare Avenue,"Clare, MI",-84.767465,43.840968,CLR
+149,Curbside Bus Stop only (no shelter),BUS,95425,CA,Cloverdale,501 Asti Road,"Cloverdale, CA",-123.011847,38.79811,CLV
+152,Station Building (with waiting room),BUS,3301,NH,Concord,30 Stickney Avenue,"Concord, NH",-71.534677,43.212748,CNH
+157,Curbside Bus Stop only (no shelter),BUS,80905,CO,Colorado Springs,S Tejon St and I-25,"Colorado Springs, CO",-104.823923,38.814882,COS
+161,Curbside Bus Stop only (no shelter),BUS,95682,CA,Cameron Park,3952 Cambridge Rd,"Cameron Park, CA",-120.998594,38.658499,CPC
+163,Curbside Bus Stop only (no shelter),BUS,95531,CA,Crescent City,1001 Front Street   ,"Crescent City, CA",-124.193475,41.752373,CRC
+166,Station Building (with waiting room),BUS,37043,TN,Clarksville,750 S Gateway Plaza Blvd,"Clarksville, TN",-87.217388,36.524485,CRK
+167,Curbside Bus Stop only (no shelter),BUS,93923,CA,Carmel,3645 Rio Road,"Carmel, CA",-121.908797,36.539033,CRM
+172,Curbside Bus Stop only (no shelter),BUS,97733,OR,Crescent,136620 Highway 97,"Crescent, OR",-121.695659,43.462975,CSO
+174,Curbside Bus Stop only (no shelter),BUS,13617,NY,Canton,21 Miner Street,"Canton, NY",-75.170827,44.594198,CTO
+175,Curbside Bus Stop only (no shelter),BUS,13617,NY,Canton,34 Cornell Drive,"Canton, NY",-75.184956,44.603306,CTS
+176,Curbside Bus Stop only (no shelter),BUS,21502,MD,Cumberland,12401 Willowbrook Road SE,"Cumberland, MD",-78.730438,39.650452,CUA
+179,Curbside Bus Stop only (no shelter),BUS,86322,AZ,Camp Verde,1897 Pueblo Ridge,"Camp Verde, AZ",-111.886244,34.580541,CVD
+180,Station Building (with waiting room),BUS,97330,OR,Corvallis,508 Southwest Monroe Ave,"Corvallis, OR",-123.263452,44.564907,CVI
+181,Curbside Bus Stop only (no shelter),BUS,97523,OR,Cave Junction,406 Redwood Coast Highway,"Cave Junction, OR",-123.647,42.163002,CVJ
+182,Curbside Bus Stop only (no shelter),BUS,97331,OR,Corvallis,Southwest Jefferson Way,"Corvallis, OR",-123.272751,44.564411,CVO
+184,Curbside Bus Stop only (no shelter),BUS,5446,VT,Colchester,Highway 7 at Brentwood Drive,"Colchester, VT",-73.165387,44.594999,CVT
+188,Station Building (with waiting room),BUS,75202,TX,Dallas,205 South Lamar Street,"Dallas, TX",-96.804121,32.778637,DAG
+190,Curbside Bus Stop only (no shelter),BUS,4543,ME,Damariscotta,167 Main Street,"Damariscotta, ME",-69.531009,44.032398,DAM
+192,Station Building (with waiting room),BUS,45426,OH,Trotwood,5136 Salem Avenue,"Dayton-Trotwood, OH",-84.27806,39.81762,DAT
+194,Station Building (with waiting room),BUS,15801,PA,Du Bois,4900 Rockton Road,"Du Bois, PA",-78.72441,41.111736,DBI
+195,Station Building (with waiting room),BUS,94588,CA,Pleasanton,5801 Owens Drive,"Dublin-Pleasanton, CA",-121.897697,37.702833,DBP
+196,Curbside Bus Stop only (no shelter),BUS,98368,WA,Discovery Bay,282624 U.S. Highway 101,"Discovery Bay, WA",-122.887334,47.987795,DBY
+197,Curbside Bus Stop only (no shelter),BUS,33525,FL,Dade City,14206 Hwy 98 Bypass,"Dade City, FL",-82.184459,28.364669,DDE
+204,Curbside Bus Stop only (no shelter),BUS,82633,WY,Douglas,1108 West Yellowstone Hwy,"Douglas, WY",-105.403907,42.762421,DGS
+207,Curbside Bus Stop only (no shelter),BUS,13630,NY,De Kalb Junction,4329 U.S. Highway 11,"De Kalb Junction, NY",-75.274378,44.504682,DKJ
+211,Curbside Bus Stop only (no shelter),BUS,15626,PA,Delmont,6583 U.S. Highway 22,"Delmont, PA",-79.580374,40.399029,DLT
+217,Curbside Bus Stop only (no shelter),BUS,54415,WI,De Pere,100 Lawrence Dr,"Green Bay, WI",-88.088426,44.451367,DPE
+221,Curbside Bus Stop only (no shelter),BUS,97911,OR,Drewsey,178 U.S. Highway 20,"Drewsey, OR",-118.357319,43.778199,DRW
+222,Station Building (with waiting room),BUS,55802,MN,Duluth,228 West Michigan Street,"Duluth, MN",-92.101209,46.783872,DUL
+224,Curbside Bus Stop only (no shelter),BUS,55812,MN,Duluth,1120 Kirby Drive,"Duluth, MN",-92.086097,46.817841,DUU
+225,Curbside Bus Stop only (no shelter),BUS,61834,IL,Danville,379 Lynch Road,"Danville, IL",-87.540521,40.122053,DVI
+227,Station Building (with waiting room),BUS,52801,IA,Davenport,304 W. River Drive,"Davenport, IA",-90.57779,41.52075,DVP
+229,Curbside Bus Stop only (no shelter),BUS,32118,FL,Daytona Beach,100 North Atlantic Avenue,"Daytona Beach, FL",-81.008922,29.228923,DYA
+231,Curbside Bus Stop only (no shelter),BUS,15931,PA,Ebensburg,202 West High Street,"Ebensburg, PA",-78.726152,40.485126,EBN
+235,Curbside Bus Stop only (no shelter),BUS,95501,CA,Eureka,6th and C Streets,"Eureka, CA",-124.16933,40.800739,EKA
+236,Curbside Bus Stop only (no shelter),BUS,95758,CA,Elk Grove,9180 Harbour Point Drive,"Elk Grove, CA",-121.480807,38.424746,EKG
+238,Station Building (with waiting room),BUS,79901,TX,El Paso,200 West San Antonio Avenue,"El Paso, TX",-106.489938,31.756732,ELB
+241,Curbside Bus Stop only (no shelter),BUS,97138,OR,Elsie,42362 US Highway 26,"Elsie, OR",-123.615101,45.886845,ELS
+244,Curbside Bus Stop only (no shelter),BUS,49829,MI,Escanaba,2901 27th Avenue North,"Escanaba, MI",-87.089868,45.779858,EMI
+247,Curbside Bus Stop only (no shelter),BUS,95318,CA,El Portal,11136 Highway 140,"El Portal, CA",-119.765742,37.678454,EPL
+249,Curbside Bus Stop only (no shelter),BUS,90245,CA,El Segundo,700 South Douglas Street,"El Segundo, CA",-118.383533,33.906609,ESG
+251,Curbside Bus Stop only (no shelter),BUS,21601,MD,Easton,29137 Newman Road,"Easton, MD",-76.064904,38.811393,ESN
+253,Station Building (with waiting room),BUS,97401,OR,Springfield,355 South A Street,"Eugene-Springfield, OR",-123.021249,44.045359,EUB
+254,Curbside Bus Stop only (no shelter),BUS,54702,WI,Eau Claire,642 University Drive,"Eau Claire, WI",-91.506339,44.796558,EUC
+256,Curbside Bus Stop only (no shelter),BUS,97403,OR,Eugene,1515 Agate Street,"Eugene, OR",-123.069628,44.042787,EUO
+257,Curbside Bus Stop only (no shelter),BUS,13637,NY,Evans Mills,8650 Leray Street,"Evans Mills, NY",-75.799444,44.08427,EVM
+258,Station Building (with waiting room),BUS,47708,IN,Evansville,119 Northwest 6th Street,"Evansville, IN",-87.569534,37.973786,EVN
+260,Curbside Bus Stop only (no shelter),BUS,82930,WY,Evanston,106 North 3rd Street,"Evanston, WY",-110.957598,41.264175,EVY
+266,Station Building (with waiting room),BUS,2721,MA,Fall River,118 4th Street,"Fall River, MA",-71.154432,41.698447,FAV
+269,Curbside Bus Stop only (no shelter),BUS,80528,CO,Fort Collins,4308 East Harmony Road,"Fort Collins, CO",-104.996531,40.524231,FCC
+270,Station Building (with waiting room),BUS,54937,WI,Fond du Lac,625 West Rolling Meadows Drive,"Fond du Lac, WI",-88.476718,43.755768,FDL
+273,Station Building (with waiting room),BUS,86001,AZ,Flagstaff,880 East Butler Ave.,"Flagstaff, AZ",-111.638801,35.192292,FGG
+274,Curbside Bus Stop only (no shelter),BUS,76544,TX,Fort Cavazos,"Building 18010, 48th Street","Fort Cavazos, TX",-97.766812,31.141597,FHD
+275,Curbside Bus Stop only (no shelter),BUS,93015,CA,Fillmore,718 West Ventura Street,"Fillmore, CA",-118.918319,34.396009,FIL
+284,Station Building (with waiting room),BUS,21704,MD,Frederick,100 South East Street,"Frederick, MD",-77.40558,39.411855,FRC
+286,Curbside Bus Stop only (no shelter),BUS,80421,CO,Fairplay,640 US Highway 285,"Fairplay, CO",-105.991608,39.225516,FRP
+287,Curbside Bus Stop only (no shelter),BUS,21705,MD,Frederick,1341 Hughes Ford Road,"Frederick, MD",-77.382299,39.416261,FRR
+288,Curbside Bus Stop only (no shelter),BUS,94538,CA,Fremont,42801 Mission Blvd,"Fremont, CA",-121.92364,37.53915,FRT
+289,Curbside Bus Stop only (no shelter),BUS,21532,MD,Frostburg,101 Braddock Road,"Frostburg, MD",-78.933168,39.6489,FSB
+290,Curbside Bus Stop only (no shelter),BUS,93623,CA,Fish Camp,1122 Highway 41,"Fish Camp, CA",-119.635019,37.472699,FSH
+291,Curbside Bus Stop only (no shelter),BUS,97439,OR,Florence,93100 Oregon Coast Highway,"Florence, OR",-124.1156,44.160514,FSP
+292,Curbside Bus Stop only (no shelter),BUS,95540,CA,Fortuna,719 South Fortuna Blvd,"Fortuna, CA",-124.146188,40.583672,FTA
+295,Curbside Bus Stop only (no shelter),BUS,33917,FL,Fort Myers,17308 Park 78 Drive,"Fort Myers, FL",-81.81506,26.714124,FTM
+302,Station Building (with waiting room),BUS,27350,NC,Goldsboro,103 North Carolina Street,"Goldsboro, NC",-78.003337,35.385675,GBO
+303,Curbside Bus Stop only (no shelter),BUS,95542,CA,Garberville,924 Redwood Drive,"Garberville, CA",-123.79523,40.097719,GBV
+304,Platform with Shelter,BUS,54302,WI,Green Bay,901 University Avenue,"Green Bay, WI",-88.00276,44.517053,GBY
+305,Curbside Bus Stop only (no shelter),BUS,86023,AZ,Grand Canyon Village,202 Village Loop Drive,"Grand Canyon Village, AZ",-112.144648,36.05364,GCB
+309,Curbside Bus Stop only (no shelter),BUS,99224,WA,Spokane,9000 West Airport Drive,"Spokane, WA",-117.536887,47.626646,GEG
+313,Curbside Bus Stop only (no shelter),BUS,97301,OR,Gearhart,3453 U.S. Highway 101 North,"Gearhart - Northbound, OR",-123.911654,46.025188,GHN
+314,Curbside Bus Stop only (no shelter),BUS,97301,OR,Gearhart,3518 U.S. Highway 101 North,"Gearhart - Southbound, OR",-123.912012,46.025529,GHT
+315,Curbside Bus Stop only (no shelter),BUS,97737,OR,Gilchrist,138303 Highway 97,"Gilchrist, OR",-121.687175,43.477437,GIL
+321,Curbside Bus Stop only (no shelter),BUS,77550,TX,Galveston,123 Rosenberg Street,"Galveston, TX",-94.796849,29.306615,GLS
+322,Curbside Bus Stop only (no shelter),BUS,95020,CA,Gilroy,7250 Monterey Street,"Gilroy, CA",-121.566798,37.003961,GLY
+325,Station Building (with waiting room),BUS,32609,FL,Gainesville,2340 North Main Street,"Gainesville, FL",-82.323379,29.673652,GNF
+326,Curbside Bus Stop only (no shelter),BUS,15601,PA,Greensburg,41 Bell Way,"Greensburg, PA",-79.54705,40.302773,GNG
+328,Platform only (no shelter),BUS,97439,OR,Florence,1950 21st St,"Florence, OR",-124.099324,43.984965,GOF
+329,Curbside Bus Stop only (no shelter),BUS,97028,OR,Government Camp,Milepost 54 Mount Hood Highway,"Government Camp, OR",-121.744822,45.302445,GOV
+332,Curbside Bus Stop only (no shelter),BUS,97347,OR,Grand Ronde,9605 Grand Ronde Rd,"Grand Ronde, OR",-123.614009,45.074259,GRC
+333,Station Building (with waiting room),BUS,80631,CO,Greeley,101 11th Avenue,"Greeley, CO",-104.697745,40.433716,GRE
+334,Curbside Bus Stop only (no shelter),BUS,97080,OR,Gresham,1200 NE 8th Street,"Gresham, OR",-122.418117,45.501806,GRH
+336,Curbside Bus Stop only (no shelter),BUS,97347,OR,Grand Ronde,27100 Salmon River Hwy,"Grand Ronde, OR",-123.581015,45.058588,GRM
+337,Station Building (with waiting room),BUS,27834,NC,Greenville,600 South Pitt Street,"Greenville, NC",-77.377078,35.610198,GRN
+341,Station Building (with waiting room),BUS,46402,IN,Gary,100 West 4th Avenue,"Gary, IN",-87.338949,41.604269,GRY
+343,Curbside Bus Stop only (no shelter),BUS,95543,CA,Gasquet,10350 Highway 199,"Gasquet, CA",-123.969462,41.84561,GSQ
+345,Curbside Bus Stop only (no shelter),BUS,97526,OR,Grants Pass,500 N.W. 6 Street,"Grants Pass, OR",-123.324914,42.442839,GTP
+346,Curbside Bus Stop only (no shelter),BUS,21536,MD,Grantsville,3000 Chestnut Ridge Road,"Grantsville, MD",-79.100326,39.692354,GTV
+349,Curbside Bus Stop only (no shelter),BUS,81230,CO,Gunnison,411 East Tomichi Street,"Gunnison, CO",-106.922057,38.544173,GUN
+351,Curbside Bus Stop only (no shelter),BUS,83530,ID,Grangeville,901 West Main Street,"Grangeville, ID",-116.131574,45.927188,GVI
+352,Curbside Bus Stop only (no shelter),BUS,13642,NY,Gouverneur,49 East Main Street,"Gouverneur, NY",-75.467999,44.335612,GVR
+354,Curbside Bus Stop only (no shelter),BUS,49738,MI,Grayling,2615 South I-75 Business Loop,"Grayling, MI",-84.708063,44.64765,GYG
+355,Curbside Bus Stop only (no shelter),BUS,49734,MI,Gaylord,1041 West Main Street,"Gaylord, MI",-84.691914,45.027057,GYL
+356,Curbside Bus Stop only (no shelter),BUS,21740,MD,Hagerstown,123 West Franklin Street,"Hagerstown, MD",-77.722497,39.64466,HAG
+364,Curbside Bus Stop only (no shelter),BUS,95448,CA,Healdsburg,149 Healdsburg Avenue,"Healdsburg, CA",-122.869456,38.606841,HEA
+370,Curbside Bus Stop only (no shelter),BUS,49931,MI,Houghton,Townsend Drive and Hubbell Street,"Houghton, MI",-88.54963,47.118726,HGH
+371,Curbside Bus Stop only (no shelter),BUS,48629,MI,Houghton Lake,9391 West Lake City Road,"Houghton Lake, MI",-84.80111,44.335421,HGL
+372,Curbside Bus Stop only (no shelter),BUS,13655,NY,Hogansburg,935 State Highway 37,"Hogansburg, NY",-74.640035,44.966824,HGS
+375,Curbside Bus Stop only (no shelter),BUS,95531,CA,Crescent City,2100 Highway 199,"Hiouchi, CA",-124.072165,41.792839,HIO
+376,Curbside Bus Stop only (no shelter),BUS,49930,MI,Hancock,125 Quincy Street,"Hancock, MI",-88.580295,47.126982,HKM
+377,Curbside Bus Stop only (no shelter),BUS,97006,OR,Hillsboro,2435 NE Town Center Drive,"Hillsboro, OR",-122.866305,45.537276,HLB
+384,Curbside Bus Stop only (no shelter),BUS,21750,MD,Hancock,434 East Main Street,"Hancock, MD",-78.154315,39.695275,HNK
+385,Station Building (with waiting room),BUS,77002,TX,Houston,2121 Main Street,"Houston, TX",-95.371614,29.748302,HOG
+388,Station Building (with waiting room),BUS,97031,OR,Hood River,110 Railroad Street,"Hood River, OR",-121.51162,45.709641,HOO
+392,Curbside Bus Stop only (no shelter),BUS,97906,OR,Harper,3459 U.S. Highway 20,"Harper, OR",-117.605297,43.855307,HRP
+393,Curbside Bus Stop only (no shelter),BUS,95521,CA,Arcata,L K Wood Boulevard,"Arcata, CA",-124.081496,40.873347,HSU
+398,Curbside Bus Stop only (no shelter),BUS,28532,NC,Havelock,201 Tourist Center Drive,"Havelock, NC",-76.926115,34.891191,HVL
+399,Curbside Bus Stop only (no shelter),BUS,49329,MI,Howard City,117 West Williams Street,"Howard City, MI",-85.469631,43.398305,HWC
+400,Curbside Bus Stop only (no shelter),BUS,92201,CA,Indio,82120 Highway 111,"Indio, CA",-116.233132,33.714863,IDO
+402,Curbside Bus Stop only (no shelter),BUS,15705,PA,Indiana,711 Pratt Drive,"Indiana, PA",-79.160006,40.61314,INA
+408,Station Building (with waiting room),BUS,28540,NC,Jacksonville,1300 North Marine Boulevard,"Jacksonville, NC",-77.40727,34.76693,JNC
+409,Curbside Bus Stop only (no shelter),BUS,93529,CA,June Lake,Junction U.S. Highway 395 & State Highway 158,"June Lake, CA",-119.053991,37.812766,JNL
+410,Curbside Bus Stop only (no shelter),BUS,53038,WI,Johnson Creek,575 Linmar Lane,"Johnson Creek, WI",-88.763099,43.089988,JOC
+414,Curbside Bus Stop only (no shelter),BUS,97911,OR,Juntura,5838 U.S. Highway 20,"Juntura, OR",-118.080077,43.745252,JTR
+415,Station Building (with waiting room),BUS,53545,WI,Janesville,3120 North Pontiac Drive,"Janesville, WI",-88.988186,42.719995,JVL
+423,Curbside Bus Stop only (no shelter),BUS,93930,CA,King City,1350 Broadway Circle,"King City, CA",-121.136344,36.202547,KGC
+424,Curbside Bus Stop only (no shelter),BUS,98346,WA,Kingston,11264 State Route 104,"Kingston - Eastbound, WA",-122.496288,47.796069,KGE
+425,Curbside Bus Stop only (no shelter),BUS,49649,MI,Kingsley,119 East Main Street (Hwy 113),"Kingsley, MI",-85.535201,44.584797,KGS
+426,Curbside Bus Stop only (no shelter),BUS,98346,WA,Kingston,10960 State Route 104,"Kingston - Westbound, WA",-122.500484,47.802025,KGW
+427,Station Building (with waiting room),BUS,76541,TX,Killeen,200 East Avenue C,"Killeen, TX",-97.728617,31.121152,KIL
+431,Curbside Bus Stop only (no shelter),BUS,5751,VT,Killington,228 East Mountain Road,"Killington, VT",-72.794305,43.627005,KLT
+432,Station Building (with waiting room),BUS,28504,NC,Kinston,101 East New Bern Road,"Kinston, NC",-77.584478,35.243706,KNC
+434,Curbside Bus Stop only (no shelter),BUS,49752,MI,Kinross Charter Twp,6737 M-80,"Kinross Charter Twp, MI",-84.506535,46.273752,KNS
+435,Curbside Bus Stop only (no shelter),BUS,21638,MD,Grasonville,3206 Main Street,"Kent Island-Grasonville, MD",-76.240827,38.966498,KNT
+437,Curbside Bus Stop only (no shelter),BUS,12943,NY,Keene Valley,1770 Route 73,"Keene Valley, NY",-73.786232,44.188528,KVL
+440,Station Building (with waiting room),BUS,97850,OR,La Grande,2204 East Penn Avenue ,"La Grande, OR",-118.077612,45.326472,LAE
+445,Curbside Bus Stop only (no shelter),BUS,49946,MI,L'Anse,102 East Broad Street,"L'Anse, MI",-88.453159,46.756951,LAN
+447,Curbside Bus Stop only (no shelter),BUS,89111,NV,Las Vegas,5757 Wayne Newton Boulevard,"Las Vegas, NV",-115.148493,36.085973,LAS
+448,Station Building (with waiting room),BUS,47901,IN,Lafayette,316 North 3rd Street,"Lafayette, IN",-86.894444,40.420668,LAT
+451,Curbside Bus Stop only (no shelter),BUS,91214,CA,La Crescenta,6201 Honolulu Avenue,"La Crescenta, CA",-118.266511,34.231944,LCA
+454,Curbside Bus Stop only (no shelter),BUS,97367,OR,Lincoln City,1725 NW 44th St.,"Lincoln City, OR",-124.010371,44.996526,LCO
+455,Curbside Bus Stop only (no shelter),BUS,88005,NM,Las Cruces,300 West Lohman Avenue,"Las Cruces, NM",-106.78006,32.3055,LCR
+456,Platform with Shelter,BUS,93534,CA,Lancaster,44812 Sierra Highway,"Lancaster, CA",-118.136432,34.6963,LCS
+457,Curbside Bus Stop only (no shelter),BUS,4849,ME,Lincolnville,2512 Atlantic Highway,"Lincolnville, ME",-69.008642,44.282075,LCV
+461,Curbside Bus Stop only (no shelter),BUS,95585,CA,Leggett,69501 Highway 101 North,"Leggett, CA",-123.727964,39.878226,LEG
+462,Curbside Bus Stop only (no shelter),BUS,98826,WA,Leavenworth,200 Ward Strasse,"Leavenworth, WA",-120.644604,47.597678,LEV
+467,Curbside Bus Stop only (no shelter),BUS,94550,CA,Livermore,2500 Railroad Avenue,"Livermore, CA",-121.767121,37.684915,LIV
+469,Curbside Bus Stop only (no shelter),BUS,93245,CA,Lemoore,300 E Street,"Lemoore, CA",-119.784545,36.303131,LMC
+474,Curbside Bus Stop only (no shelter),BUS,3251,NH,Lincoln,36 Main Street,"Lincoln, NH",-71.67471,44.038243,LNN
+476,Curbside Bus Stop only (no shelter),BUS,89029,NV,Laughlin,2121 South Casino Drive,"Laughlin, NV",-114.575778,35.158568,LNV
+478,Curbside Bus Stop only (no shelter),BUS,87506,NM,Los Alamos,124 State Highway 4,"Los Alamos, NM",-106.208804,35.827795,LOH
+479,Curbside Bus Stop only (no shelter),BUS,93436,CA,Lompoc,111 South I Street,"Lompoc, CA",-120.459285,34.63834,LOM
+481,Curbside Bus Stop only (no shelter),BUS,87544,NM,Los Alamos,109 Central Park Square,"Los Alamos, NM",-106.29992,35.881799,LOS
+483,Curbside Bus Stop only (no shelter),BUS,97739,OR,La Pine,16515 Reed Road,"La Pine, OR",-121.499956,43.674176,LPN
+485,Curbside Bus Stop only (no shelter),BUS,92253,CA,La Quinta,78822 Highway 111,"La Quinta, CA",-116.289964,33.710979,LQT
+488,Curbside Bus Stop only (no shelter),BUS,82072,WY,Laramie,1952 North Banner Road,"Laramie, WY",-105.608549,41.32992,LRY
+489,Curbside Bus Stop only (no shelter),BUS,17837,PA,Lewisburg,500 Market Street,"Lewisburg, PA",-76.887341,40.963073,LSB
+492,Curbside Bus Stop only (no shelter),BUS,54601,WI,La Crosse,521 East Avenue N,"La Crosse, WI",-91.229332,43.817112,LSW
+493,Curbside Bus Stop only (no shelter),BUS,15650,PA,Latrobe,148 Aviation Lane,"Latrobe, PA",-79.405407,40.272842,LTB
+494,Curbside Bus Stop only (no shelter),BUS,3561,NH,Littleton,336 Cottage Street,"Littleton, NH",-71.76909,44.296787,LTL
+496,Curbside Bus Stop only (no shelter),BUS,93543,CA,Littlerock,7225 Pearblossom Hwy,"Littlerock, CA",-118.00058,34.521339,LTR
+497,Curbside Bus Stop only (no shelter),BUS,95454,CA,Laytonville,44900 Highway 101,"Laytonville, CA",-123.482019,39.686633,LTV
+498,Station Building (with waiting room),BUS,40203,KY,Louisville,1211 West Broadway,"Louisville, KY",-85.772623,38.248724,LVL
+499,Curbside Bus Stop only (no shelter),BUS,95541,CA,Lee Vining,30 Main Street,"Lee Vining, CA",-119.118687,37.955403,LVN
+500,Curbside Bus Stop only (no shelter),BUS,17045,PA,Liverpool,U.S. Highway 11/15 & State Highway 104,"Liverpool, PA",-76.95427,40.620141,LVP
+501,Curbside Bus Stop only (no shelter),BUS,17045,PA,Liverpool,1412 Susquehanna Trail,"Liverpool, PA",-76.994126,40.56632,LVR
+502,Curbside Bus Stop only (no shelter),BUS,89101,NV,Las Vegas,624 South 1st Street,"Las Vegas, NV",-115.149734,36.164458,LVS
+503,Curbside Bus Stop only (no shelter),BUS,89119,NV,Las Vegas,6675 Gilespie Street,"Las Vegas, NV",-115.163629,36.068464,LVT
+506,Curbside Bus Stop only (no shelter),BUS,17044,PA,Lewistown,6 West Market Street,"Lewistown, PA",-77.574643,40.597123,LWB
+507,Curbside Bus Stop only (no shelter),BUS,83501,ID,Lewiston,1920 Highway 128,"Lewiston, ID",-117.005923,46.426931,LWN
+510,Curbside Bus Stop only (no shelter),BUS,97741,OR,Madras,1210 Southwest Highway 97,"Madras, OR",-121.133533,44.618898,MAD
+511,Station Building (with waiting room),BUS,62959,IL,Marion,2315 W Main St,"Marion, IL",-88.955212,37.729643,MAI
+512,Curbside Bus Stop only (no shelter),BUS,49701,MI,Mackinaw City,102 South Huron Ave.,"Mackinaw City, MI",-84.72577,45.781335,MAK
+517,Curbside Bus Stop only (no shelter),BUS,83638,ID,McCall,411 Deinhard Lane,"McCall, ID",-116.094757,44.898761,MCA
+523,Curbside Bus Stop only (no shelter),BUS,5255,VT,Manchester Center,75 Bonnet Street,"Manchester Center, VT",-73.058331,43.177711,MCV
+525,Curbside Bus Stop only (no shelter),BUS,95345,CA,Midpines,6979 Highway 140,"Midpines, CA",-119.920202,37.544143,MDP
+529,Curbside Bus Stop only (no shelter),BUS,42431,KY,Madisonville,99 Free Henry Ford Road,"Madisonville, KY",-87.450266,37.256047,MDV
+530,Curbside Bus Stop only (no shelter),BUS,98272,WA,Monroe,19746 US Highway 2,"Monroe - Eastbound, WA",-121.966252,47.858216,MEE
+534,Curbside Bus Stop only (no shelter),BUS,98272,WA,Monroe,19721 US Highway 2,"Monroe - Westbound, WA",-121.966193,47.858463,MEW
+535,Curbside Bus Stop only (no shelter),BUS,97504,OR,Medford,1000 Terminal Loop Parkway,"Medford, OR",-122.874414,42.367913,MFA
+536,Station Building (with waiting room),BUS,97501,OR,Medford,220 S. Front Street,"Medford, OR",-122.871538,42.324198,MFR
+537,Station Building (with waiting room),BUS,36104,AL,Montgomery,495 Molton Street,"Montgomery, AL",-86.314801,32.379465,MGM
+538,Platform with Shelter,BUS,95037,CA,Morgan Hill,17300 Depot Street,"Morgan Hill, CA",-121.650004,37.130085,MHC
+539,Curbside Bus Stop only (no shelter),BUS,28557,NC,Morehead City,1001 Arendell Street,"Morehead City, NC",-76.71568,34.721383,MHD
+541,Station Building (with waiting room),BUS,3101,NH,Manchester,119 Canal Street,"Manchester, NH",-71.466051,42.986893,MHT
+542,Station Building (with waiting room),BUS,2557,MA,Oak Bluffs,1 Seaview Avenue,"Martha's Vineyard, MA",-70.555989,41.45793,MHV
+545,Curbside Bus Stop only (no shelter),BUS,17059,PA,Mifflintown,9 Stop Plaza Drive,"Mifflintown, PA",-77.375012,40.578793,MIF
+547,Curbside Bus Stop only (no shelter),BUS,5753,VT,Middlebury,130 Storrs Avenue,"Middlebury, VT",-73.174466,44.010209,MIY
+550,Curbside Bus Stop only (no shelter),BUS,53207,WI,Milwaukee,5300 South Howell Avenue,"Milwaukee Airport-Buses, WI",-87.903077,42.947175,MKB
+553,Station Building (with waiting room),BUS,61265,IL,Moline,1200 River Drive,"Moline, IL",-90.521104,41.506758,MLI
+554,Curbside Bus Stop only (no shelter),BUS,98837,WA,Moses Lake,1810 East Kittleson Road,"Moses Lake, WA",-119.24536,47.101976,MLK
+555,Curbside Bus Stop only (no shelter),BUS,93546,CA,Mammoth Lakes,1 Minaret Road,"Mammoth Lakes, CA",-119.0389,37.651389,MMK
+557,Curbside Bus Stop only (no shelter),BUS,54751,WI,Menomonie,302 10th Avenue East,"Menomonie, WI",-91.926059,44.873665,MNM
+558,Station Building (with waiting room),BUS,15146,PA,Monroeville,4210 William Penn Highway,"Monroeville, PA",-79.761749,40.438067,MNR
+559,Curbside Bus Stop only (no shelter),BUS,13662,NY,Massena,15054 State Highway 37,"Massena, NY",-74.945391,44.923283,MNY
+560,Curbside Bus Stop only (no shelter),BUS,83843,ID,Moscow,1006 Railroad Street,"Moscow, ID",-117.005388,46.725931,MOC
+562,Curbside Bus Stop only (no shelter),BUS,81201,CO,Salida,23715 U.S. Highway 50,"Monarch Mountain, CO",-106.33176,38.512092,MOH
+563,Curbside Bus Stop only (no shelter),BUS,93501,CA,Mojave,15900 Sierra Highway,"Mojave, CA",-118.173181,35.05249,MOJ
+564,Curbside Bus Stop only (no shelter),BUS,49336,MI,Morley,4981 Northland Drive,"Morley, MI",-85.443821,43.539299,MOR
+566,Curbside Bus Stop only (no shelter),BUS,92518,CA,Riverside,14160 Meridian Parkway,"Moreno Valley, CA",-117.288588,33.912758,MOV
+568,Platform only (no shelter),BUS,97453,OR,Mapleton,10756 OR-126,"Mapleton, OR",-123.8575,44.026824,MPL
+570,Station Building (with waiting room),BUS,48858,MI,Mt. Pleasant,300 East Broomfield Street,"Mt. Pleasant, MI",-84.772629,43.58182,MPT
+571,Station Building (with waiting room),BUS,49855,MI,Marquette,1325 Commerce Drive,"Marquette, MI",-87.452499,46.557825,MQT
+574,Curbside Bus Stop only (no shelter),BUS,95338,CA,Mariposa,Highway 140 and 7th Street,"Mariposa, CA",-119.966205,37.485747,MRM
+575,Curbside Bus Stop only (no shelter),BUS,95338,CA,Mariposa,4974 Joe Howard Street,"Mariposa, CA",-119.974222,37.491268,MRP
+576,Station Building (with waiting room),BUS,95901,CA,Marysville,858 I Street,"Marysville, CA",-121.597259,39.143721,MRV
+577,Curbside Bus Stop only (no shelter),BUS,93940,CA,Monterey,500 Tyler Street ,"Monterey, CA",-121.894331,36.597611,MRY
+578,Curbside Bus Stop only (no shelter),BUS,55111,MN,St. Paul,4300 Glumack Drive,"St. Paul-Minneapolis, MN",-93.210772,44.882625,MSL
+579,Curbside Bus Stop only (no shelter),BUS,53706,WI,Madison,250 North Lake Street,"Madison, WI",-89.397612,43.071201,MSN
+582,Curbside Bus Stop only (no shelter),BUS,54220,WI,Manitowoc,1701 South 41st Street,"Manitowoc, WI",-87.698759,44.078388,MTC
+583,Curbside Bus Stop only (no shelter),BUS,49663,MI,Manton,102 South Michigan Avenue,"Manton, MI",-85.398401,44.410563,MTO
+587,Curbside Bus Stop only (no shelter),BUS,62864,IL,Mt. Vernon,102 Potomac Boulevard,"Mt. Vernon, IL",-88.956426,38.313911,MVI
+590,Curbside Bus Stop only (no shelter),BUS,54143,WI,Marinette,2900 Roosevelt AVe,"Marinette, WI",-87.658441,45.074637,MWI
+591,Curbside Bus Stop only (no shelter),BUS,93940,CA,Monterey,886 Cannery Row,"Monterey, CA",-121.90164,36.61768,MYA
+592,Curbside Bus Stop only (no shelter),BUS,93940,CA,Monterey,1 Old Golf Course Road,"Monterey, CA",-121.877311,36.591861,MYH
+593,Curbside Bus Stop only (no shelter),BUS,93940,CA,Monterey,438 Calle Principal,"Monterey, CA",-121.895837,36.599285,MYM
+595,Curbside Bus Stop only (no shelter),BUS,93940,CA,Monterey,351 Fremont Street,"Monterey, CA",-121.892522,36.595379,MYT
+597,Curbside Bus Stop only (no shelter),BUS,83687,ID,Nampa,3319 Garrity Boulevard,"Nampa, ID",-116.529658,43.588257,NAM
+598,Station Building (with waiting room),BUS,2554,MA,Nantucket,1 Steamboat Wharf,"Nantucket, MA",-70.095556,41.28598,NAN
+599,Curbside Bus Stop only (no shelter),BUS,94559,CA,Napa,625 Burnell Street,"Napa, CA",-122.280022,38.297617,NAP
+602,Curbside Bus Stop only (no shelter),BUS,28560,NC,New Bern,203 South Front Street,"New Bern, NC",-77.036948,35.104416,NBR
+604,Curbside Bus Stop only (no shelter),BUS,75965,TX,Nacogdoches,9855 US Highway 259 North,"Nacogdoches, TX",-94.675886,31.700274,NCG
+606,Station Building (with waiting room),BUS,3860,NH,North Conway,2760 White Mountain Highway,"North Conway, NH",-71.129461,44.054485,NCW
+609,Curbside Bus Stop only (no shelter),BUS,17069,PA,New Buffalo,3298 Susquehanna Trail,"New Buffalo, PA",-76.98243,40.447646,NFF
+613,Platform with Shelter,BUS,91321,CA,Santa Clarita,24300 Railroad Avenue,"Santa Clarita-Newhall, CA",-118.527338,34.379451,NHL
+621,Curbside Bus Stop only (no shelter),BUS,97133,OR,North Plains,31450 NW Commercial Street,"North Plains, OR",-123.001024,45.597696,NPL
+623,Station Building (with waiting room),BUS,97365,OR,Newport,169 Southwest Coast Hwy,"Newport, OR",-124.054486,44.635191,NPO
+629,Curbside Bus Stop only (no shelter),BUS,3064,NH,Nashua,8 North Southwood Drive,"Nashua, NH",-71.503866,42.790718,NSH
+630,Station Building (with waiting room),BUS,37203,TN,Nashville,709 Rep John Lewis Way South,"Nashville, TN",-86.77305,36.152068,NVL
+632,Station Building (with waiting room),BUS,2740,MA,New Bedford,49 State Pier,"New Bedford, MA",-70.919679,41.635165,NWF
+634,Station Building (with waiting room),BUS,2840,RI,Newport,39 America's Cup Avenue,"Newport, RI",-71.317116,41.488656,NWP
+638,Curbside Bus Stop only (no shelter),BUS,93644,CA,Oakhurst,40530 Highway 41,"Oakhurst, CA",-119.646282,37.335324,OAH
+639,Curbside Bus Stop only (no shelter),BUS,97534,OR,O'Brien,33096 Redwood Parkway,"O'Brien, CA",-123.703685,42.066877,OBR
+640,Curbside Bus Stop only (no shelter),BUS,34470,FL,Ocala,531 Northeast First Avenue,"Ocala, FL",-82.135282,29.192235,OCA
+641,Station Building (with waiting room),BUS,21842,MD,Ocean City,12848 Ocean Gateway,"Ocean City, MD",-75.102911,38.334867,OCM
+642,Curbside Bus Stop only (no shelter),BUS,54153,WI,Oconto,517 Smith Avenue,"Oconto, WI",-87.887149,44.879381,OCO
+643,Curbside Bus Stop only (no shelter),BUS,21811,MD,Berlin,11011 Manklin Creek Road,"Ocean Pines-Berlin, MD",-75.164144,38.37621,OCP
+644,Station Building (with waiting room),BUS,84401,UT,Ogden,2393 Wall Avenue,"Ogden, UT",-111.979027,41.223128,OGD
+649,Platform only (no shelter),BUS,97463,OR,Oakridge,48067 Hwy 58,"Oakridge, OR",-122.467237,43.745008,OKR
+654,Station Building (with waiting room),BUS,97914,OR,Ontario,842 Southeast 1st Avenue,"Ontario, OR",-116.951325,44.024071,ONT
+658,Curbside Bus Stop only (no shelter),BUS,4469,ME,Orono,8 Gym Drive,"Orono, ME",-68.670015,44.903283,ORO
+659,Curbside Bus Stop only (no shelter),BUS,95965,CA,Oroville,Hwy 70 and Grand Avenue,"Oroville, CA",-121.572102,39.520057,ORV
+663,Curbside Bus Stop only (no shelter),BUS,54902,WI,Oshkosh,525 West 20th Avenue,"Oshkosh, WI",-88.551236,43.994303,OSH
+664,Curbside Bus Stop only (no shelter),BUS,54901,WI,Oshkosh,208 Osceola Street,"Oshkosh, WI",-88.548899,44.022747,OSU
+665,Curbside Bus Stop only (no shelter),BUS,97368,OR,Otis,5280 Salmon River Hwy,"Otis, OR - Eastbound",-123.88085,45.010214,OTE
+667,Curbside Bus Stop only (no shelter),BUS,97368,OR,Otis,5283 Salmon River Hwy,"Otis, OR - Westbound",-123.881289,45.010161,OTW
+668,Station Building (with waiting room),BUS,48867,MI,Owosso,109 Comstock Street,"Owosso, MI",-84.170085,42.996636,OWO
+670,Station Building (with waiting room),BUS,42001,KY,Paducah,2719 Irvin Cobb Avenue,"Paducah, KY",-88.575817,37.056916,PAD
+674,Curbside Bus Stop only (no shelter),BUS,91101,CA,Pasadena,168 South Los Robles Avenue,"Pasadena, CA",-118.141295,34.143079,PAS
+676,Curbside Bus Stop only (no shelter),BUS,33980,FL,Port Charlotte,900 Kings Highway,"Port Charlotte, FL",-82.050609,27.016842,PCH
+678,Curbside Bus Stop only (no shelter),BUS,95667,CA,Placerville,2894 Mosquito Road,"Placerville, CA",-120.789419,38.73302,PCV
+679,Curbside Bus Stop only (no shelter),BUS,97218,OR,Portland,7000 Northwest Airport Way,"Portland, OR",-122.592529,45.588232,PDA
+680,Curbside Bus Stop only (no shelter),BUS,92260,CA,Palm Desert,44449 Towne Center Way ,"Palm Desert, CA",-116.398519,33.725715,PDC
+681,Curbside Bus Stop only (no shelter),BUS,93907,CA,Prunedale,Highway 156 and Hwy 101,"Prunedale, CA",-121.671367,36.789513,PDL
+683,Station Building (with waiting room),BUS,97801,OR,Pendleton,2101 SE Court Avenue,"Pendleton, OR",-118.76318,45.673293,PEN
+684,Station Building (with waiting room),BUS,15222,PA,Pittsburgh,55 11th Street,"Pittsburgh, PA",-79.993414,40.444378,PGB
+686,Station Building (with waiting room),BUS,85034,AZ,Phoenix,3400 East Sky Harbor Boulevard,"Phoenix, AZ",-112.013047,33.43639,PHA
+687,Station Building (with waiting room),BUS,85034,AZ,Phoenix,2115 East Buckeye Road,"Phoenix, AZ",-112.035623,33.436395,PHG
+690,Station Building (with waiting room),BUS,61602,IL,Peoria,407 Southwest Adams Street,"Peoria, IL",-89.593643,40.689364,PIA
+693,Curbside Bus Stop only (no shelter),BUS,61625,IL,Peoria,1501 West Bradley Avenue,"Peoria, IL",-89.61482,40.699375,PIU
+695,Curbside Bus Stop only (no shelter),BUS,80470,CO,Pine,76 Mount Evans Boulevard,"Pine Junction, CO",-105.39697,39.467318,PJT
+697,Curbside Bus Stop only (no shelter),BUS,13142,NY,Pulaski,3739 State Route 13,"Pulaski, NY",-76.11276,43.553987,PLK
+699,Curbside Bus Stop only (no shelter),BUS,16866,PA,Philipsburg,4th & Alder Streets,"Philipsburg, PA",-78.223033,40.901,PLP
+701,Curbside Bus Stop only (no shelter),BUS,93550,CA,Palmdale,39000 Clock Tower Plaza Drive,"Palmdale, CA",-118.120737,34.591238,PMD
+702,Curbside Bus Stop only (no shelter),BUS,3264,NH,Plymouth,83 Main Street,"Plymouth, NH",-71.687691,43.757848,PMO
+713,Curbside Bus Stop only (no shelter),BUS,17864,PA,Port Trevorton,5254 South Susquehanna Trail,"Port Trevorton, PA",-76.877813,40.693552,PRE
+714,Curbside Bus Stop only (no shelter),BUS,92570,CA,Perris,121 South C Street,"Perris, CA",-117.229439,33.784679,PRI
+718,Curbside Bus Stop only (no shelter),BUS,49770,MI,Petsoskey,1850 Anderson Road,"Petoskey, MI",-84.97136,45.350252,PSK
+720,Curbside Bus Stop only (no shelter),BUS,92262,CA,Palm Springs,3400 East Tahquitz Canyon Way,"Palm Springs, CA",-116.508939,33.824009,PSP
+721,Curbside Bus Stop only (no shelter),BUS,92262,CA,Palm Springs,190 North Indian Canyon Drive,"Palm Springs, CA",-116.54544,33.824643,PSS
+722,Curbside Bus Stop only (no shelter),BUS,49769,MI,Pellston,45 South US Hwy 31,"Pellston, MI",-84.783762,45.550636,PST
+723,Curbside Bus Stop only (no shelter),BUS,98363,WA,Port Angeles,123 East Front Street,"Port Angeles, WA",-123.431523,48.11978,PTA
+725,Curbside Bus Stop only (no shelter),BUS,94952,CA,Petaluma,19 Copeland Street,"Petaluma, CA",-122.635793,38.2365,PTC
+726,Curbside Bus Stop only (no shelter),BUS,13676,NY,Potsdam,19 Main Street,"Potsdam, NY",-74.985477,44.668619,PTD
+728,Curbside Bus Stop only (no shelter),BUS,98368,WA,Port Townsend,63 4 Corners Road,"Port Townsend, WA",-122.818437,48.049493,PTO
+729,Station Building (with waiting room),BUS,3801,NH,Portsmouth,185 Grafton Drive,"Portsmouth, NH",-70.804088,43.059678,PTS
+730,Curbside Bus Stop only (no shelter),BUS,13699,NY,Potsdam,8 Clarkson Avenue,"Potsdam, NY",-75.00135,44.664184,PTU
+731,Station Building (with waiting room),BUS,81003,CO,Pueblo,123 Court Street,"Pueblo, CO",-104.61027,38.268742,PUB
+732,Curbside Bus Stop only (no shelter),BUS,99163,WA,Pullman,1255 NE North Fairway Road,"Pullman, WA",-117.150847,46.738721,PUL
+733,Station Building (with waiting room),BUS,15767,PA,Punxsutawney,222 North Findley Street,"Punxsutawney, PA",-78.971581,40.944654,PUN
+736,Station Building (with waiting room),BUS,2903,RI,Providence,25 India Street,"Providence, RI",-71.397973,41.816277,PVF
+738,Curbside Bus Stop only (no shelter),BUS,77446,TX,Prairie View,44814 US Highway 290 Business,"Prairie View, TX",-95.992293,30.072967,PVW
+739,Platform with Shelter,BUS,19464,PA,Pottstown,51 South Hanover Street,"Pottstown, PA",-75.650845,40.244388,PWN
+740,Curbside Bus Stop only (no shelter),BUS,85053,AZ,Phoenix,2717 W. Bell Road,"Phoenix - North, AZ",-112.119188,33.639498,PXN
+743,Curbside Bus Stop only (no shelter),BUS,98848,WA,Quincy,115 F Street Southwest,"Quincy, WA",-119.855705,47.233512,QUC
+745,Curbside Bus Stop only (no shelter),BUS,V6X 2M9,BC,Richmond,10251 St. Edwards Drive,"Richmond, BC",-123.109885,49.18723,RBC
+746,Curbside Bus Stop only (no shelter),BUS,96080,CA,Red Bluff,735 Rio Street,"Red Bluff, CA",-122.234586,40.178482,RBF
+747,Station Building (with waiting room),BUS,61108,IL,Rockford,7559 Walton St,"Rockford, IL",-88.966271,42.268848,RCK
+749,Station Building (with waiting room),BUS,19602,PA,Reading,701 Franklin Street,"Reading, PA",-75.923048,40.333791,RDI
+750,Curbside Bus Stop only (no shelter),BUS,97756,OR,Redmond,2522 S.E. Jesse Butler Circle,"Redmond, OR",-121.160728,44.253269,RDM
+751,Curbside Bus Stop only (no shelter),BUS,96001,CA,Redding,1530 Yuba Street,"Redding, CA",-122.392768,40.583521,RDR
+752,Curbside Bus Stop only (no shelter),BUS,97756,OR,Redmond,777 Southwest Kalama Avenue,"Redmond, OR",-121.176735,44.266502,RDT
+754,Curbside Bus Stop only (no shelter),BUS,49677,MI,Reed City,US 10 & 220th Ave.,"Reed City, MI",-85.521804,43.88684,REE
+759,Curbside Bus Stop only (no shelter),BUS,97758,OR,Riley,105 U.S. Highway 20,"Riley, OR",-119.503819,43.541868,RIL
+761,Curbside Bus Stop only (no shelter),BUS,49341,MI,Rockford,"2770 Ten Mile Road, Northeast","Rockford, MI",-85.601879,43.116549,RKF
+762,Curbside Bus Stop only (no shelter),BUS,61201,IL,Rock Island,3500 5th Avenue,"Rock Island, IL",-90.550389,41.506223,RKI
+765,Station Building (with waiting room),BUS,55902,MN,Rochester,821 Civic Center Drive NW,"Rochester, MN",-92.474757,44.028562,RMN
+769,Curbside Bus Stop only (no shelter),BUS,97601,OR,Klamath Falls,5500 Running Y Road,"Running Y Ranch, OR",-121.885168,42.276897,RNY
+770,Station Building (with waiting room),BUS,14604,NY,Rochester,186 Cumberland Street,"Rochester, NY",-77.607884,43.16269,ROB
+772,Station Building (with waiting room),BUS,4841,ME,Rockland,517A Main Street,"Rockland, ME",-69.10822,44.107267,ROD
+775,Curbside Bus Stop only (no shelter),BUS,94928,CA,Rohnert Park,6335 Commerce Blvd,"Rohnert Park, CA",-122.709749,38.347328,RPC
+777,Curbside Bus Stop only (no shelter),BUS,97467,OR,Reedsport,2012 Winchester Avenue,"Reedsport, OR",-124.120214,43.695675,RPT
+778,Curbside Bus Stop only (no shelter),BUS,97371,OR,Rickreall,520 South Pacific Hwy,"Rickreall, OR",-123.228077,44.924788,RRL
+781,Station Building (with waiting room),BUS,82901,WY,Rock Springs,1695 Sunset Drive,"Rock Springs, WY",-109.256217,41.577206,RSY
+782,Station Building (with waiting room),BUS,5701,VT,Rutland,102 West Street,"Rutland, VT",-72.979324,43.607876,RTC
+785,Curbside Bus Stop only (no shelter),BUS,99169,WA,Ritzville,1503 South Smittys Blvd.,"Ritzville, WA",-118.36534,47.119405,RTZ
+790,Curbside Bus Stop only (no shelter),BUS,82301,WY,Rawlins,1400 South Higley Boulevard,"Rawlins, WY",-107.224461,41.776377,RWY
+793,Curbside Bus Stop only (no shelter),BUS,87506,NM,Santa Fe,198 State Road 592,"Santa Fe, NM",-105.921959,35.799738,SAE
+794,Station Building (with waiting room),BUS,87501,NM,Santa Fe,410 South Guadalupe Street,"Santa Fe, NM",-105.946599,35.684265,SAF
+798,Curbside Bus Stop only (no shelter),BUS,93060,CA,Santa Paula,327 South Palm Avenue,"Santa Paula, CA",-119.06906,34.346197,SAP
+801,Curbside Bus Stop only (no shelter),BUS,93455,CA,Santa Maria,205 South Nicholson Avenue,"Santa Maria, CA",-120.416455,34.951608,SAT
+803,Curbside Bus Stop only (no shelter),BUS,97055,OR,Sandy,37601 Highway 26,"Sandy, OR",-122.27625,45.400668,SAY
+806,Station Building (with waiting room),BUS,3874,NH,Seabrook,13 Batchelder Road,"Seabrook, NH",-70.883909,42.891524,SBK
+807,Curbside Bus Stop only (no shelter),BUS,93106,CA,Santa Barbara,552 University Road,"Santa Barbara, CA",-119.848296,34.414945,SBU
+813,Curbside Bus Stop only (no shelter),BUS,95814,CA,Sacramento,1389 10th Street,"Sacramento, CA",-121.495175,38.576137,SCS
+814,Curbside Bus Stop only (no shelter),BUS,95060,CA,Santa Cruz,920 Pacific Avenue,"Santa Cruz, CA",-122.025094,36.971017,SCZ
+815,Curbside Bus Stop only (no shelter),BUS,86336,AZ,Sedona,300 North Highway 89A,"Sedona, AZ",-111.760303,34.870511,SDC
+820,Curbside Bus Stop only (no shelter),BUS,93955,CA,Sand City,949 Playa Avenue,"Seaside-Sand City, CA",-121.843842,36.619362,SES
+822,Curbside Bus Stop only (no shelter),BUS,94105,CA,San Francisco,555 Mission Street,"San Francisco, CA",-122.398867,37.78865,SFC
+823,Station Building (with waiting room),BUS,48607,MI,Saginaw,511 Johnson Street,"Saginaw, MI",-83.933429,43.434928,SGW
+824,Curbside Bus Stop only (no shelter),BUS,53081,WI,Sheboygan,830 Pennsylvania Avenue,"Sheboygan, WI",-87.714028,43.74992,SHB
+825,Station Building (with waiting room),BUS,71101,LA,Shreveport,1237 Murphy Street,"Shreveport, LA",-93.756673,32.499717,SHR
+826,Curbside Bus Stop only (no shelter),BUS,54166,WI,Shawano,N4543 State Highway 22,"Shawano, WI",-88.615339,44.753147,SHW
+830,Curbside Bus Stop only (no shelter),BUS,17876,PA,Shamokin Dam,3155 North Susquehanna Trail,"Shamokin Dam, PA",-76.820489,40.84826,SKD
+831,Curbside Bus Stop only (no shelter),BUS,98288,WA,Skykomish,147 5th Street North,"Skykomish - Eastbound, WA",-121.361738,47.711229,SKE
+834,Curbside Bus Stop only (no shelter),BUS,98288,WA,Skykomish,90000 NE Stevens Pass Highway,"Skykomish - Westbound, WA",-121.360091,47.711903,SKW
+836,Station Building (with waiting room),BUS,84101,UT,Salt Lake City,300 South 600 West,"Salt Lake City, UT",-111.90851,40.76304,SLB
+838,Curbside Bus Stop only (no shelter),BUS,81201,CO,Salida,54 Jones Avenue,"Salida, CO",-105.9945,38.525047,SLD
+839,Curbside Bus Stop only (no shelter),BUS,97304,OR,Salem,1455 Edgewater St,"Salem, OR",-123.034365,44.938188,SLE
+840,Curbside Bus Stop only (no shelter),BUS,96150,CA,South Lake Tahoe,4114 Lake Tahoe Blvd,"South Lake Tahoe, CA",-119.942288,38.95779,SLH
+843,Curbside Bus Stop only (no shelter),BUS,93405,CA,San Luis Obispo,1 Grand Avenue,"San Luis Obispo, CA",-120.655671,35.298857,SLP
+845,Curbside Bus Stop only (no shelter),BUS,21801,MD,Salisbury,547E Riverside Drive,"Salisbury, MD",-75.605898,38.361983,SLS
+846,Curbside Bus Stop only (no shelter),BUS,96151,CA,South Lake Tahoe,1000 Emerald Bay Road,"South Lake Tahoe, CA",-120.004765,38.913065,SLT
+847,Curbside Bus Stop only (no shelter),BUS,93463,CA,Solvang,1630 Mission Drive,"Solvang, CA",-120.14058,34.595913,SLV
+849,Curbside Bus Stop only (no shelter),BUS,53716,WI,Madison,4547 East Broadway Avenue,"Madison, WI",-89.306176,43.047761,SMD
+850,Curbside Bus Stop only (no shelter),BUS,49783,MI,Sault Sainte Marie,4001 I-75 Business Spur,"Sault Sainte Marie, MI",-84.371705,46.463461,SMI
+851,Curbside Bus Stop only (no shelter),BUS,90401,CA,Santa Monica,1530 2nd Street,"Santa Monica Pier, CA",-118.494637,34.012692,SMN
+852,Curbside Bus Stop only (no shelter),BUS,95567,CA,Smith River,13450 US Highway 101 North,"Smith River, CA",-124.203781,41.957498,SMR
+859,Curbside Bus Stop only (no shelter),BUS,93901,CA,Salinas,110 Salinas Street,"Salinas, CA",-121.656653,36.676416,SNR
+861,Curbside Bus Stop only (no shelter),BUS,54768,WI,Stanley,604 South Broadway Street,"Stanley, WI",-90.938352,44.949813,SNY
+865,Curbside Bus Stop only (no shelter),BUS,97538,OR,Selma,110 Deer Creek Road,"Selma, OR",-123.61498,42.280246,SOR
+866,Platform only (no shelter),BUS,54656,WI,Sparta,711 Avon Road,"Sparta, WI",-90.818639,43.923258,SPA
+868,Curbside Bus Stop only (no shelter),BUS,90731,CA,San Pedro,Berth 95,"San Pedro, CA",-118.274928,33.74899,SPD
+874,Curbside Bus Stop only (no shelter),BUS,90731,CA,San Pedro,931 South Gaffey Street,"San Pedro, CA",-118.292499,33.735694,SPO
+876,Curbside Bus Stop only (no shelter),BUS,89431,NV,Sparks,1100 Nugget Avenue,"Sparks, NV",-119.757111,39.533532,SPX
+877,Curbside Bus Stop only (no shelter),BUS,98382,WA,Sequim,609 West Washington Street,"Sequim, WA",-123.116397,48.079204,SQM
+878,Curbside Bus Stop only (no shelter),BUS,34232,FL,Sarasota,5600 Fruitville Road,"Sarasota, FL",-82.456626,27.337166,SRA
+879,Curbside Bus Stop only (no shelter),BUS,95401,CA,Santa Rosa,2012 Range Avenue,"Santa Rosa, CA",-122.732483,38.457123,SRC
+880,Station Building (with waiting room),BUS,18503,PA,Scranton,30 Lackawanna Avenue,"Scranton, PA",-75.671028,41.41019,SRN
+881,Curbside Bus Stop only (no shelter),BUS,4974,ME,Searsport,161 East Main Street,"Searsport, ME",-68.909658,44.460756,SRT
+882,Curbside Bus Stop only (no shelter),BUS,97138,OR,Seaside,1100 12th Avenue,"Seaside, OR",-123.915788,46.001637,SSD
+883,Curbside Bus Stop only (no shelter),BUS,17870,PA,Selinsgrove,105 South Market Street,"Selinsgrove, PA",-76.862247,40.798142,SSG
+884,Curbside Bus Stop only (no shelter),BUS,97138,OR,Seaside,930 North Holladay Drive,"Seaside, OR",-123.920961,46.000094,SSH
+886,Curbside Bus Stop only (no shelter),BUS,98826,WA,Stevens Pass,US Highway 2 at Summit Parking Lot,"Stevens Pass, WA",-121.088387,47.746634,SSW
+888,Station Building (with waiting room),BUS,16801,PA,State College,152 North Atherton Street,"State College, PA",-77.867734,40.792286,STC
+889,Curbside Bus Stop only (no shelter),BUS,84770,UT,St. George,805 South Bluff Street,"St. George, UT",-113.584426,37.094661,STG
+890,Station Building (with waiting room),BUS,49781,MI,St. Ignace,700 West US Hwy 2,"St. Ignace, MI",-84.721153,45.858556,STI
+894,Curbside Bus Stop only (no shelter),BUS,97759,OR,Sisters,1001 West Rail Way,"Sisters, OR",-121.562472,44.297476,STO
+895,Curbside Bus Stop only (no shelter),BUS,33702,FL,St. Petersburg,793 77th Avenue N,"St. Petersburg, FL",-82.644428,27.843029,STP
+899,Curbside Bus Stop only (no shelter),BUS,97707,OR,Sunriver,56896 Venture Lane,"Sunriver, OR",-121.446097,43.873858,SUN
+900,Curbside Bus Stop only (no shelter),BUS,17801,PA,Sunbury,1167 N. 4th Street,"Sunbury, PA",-76.784925,40.875225,SUR
+901,Curbside Bus Stop only (no shelter),BUS,92586,CA,Sun City-Menifee,26938 Cherry Hills Blvd.,"Sun City-Menifee, CA",-117.189812,33.710967,SUT
+902,Station Building (with waiting room),BUS,98121,WA,Seattle,2701 Alaskan Way,"Seattle, WA",-122.353001,47.613623,SVF
+903,Curbside Bus Stop only (no shelter),BUS,54481,WI,Stevens Point,200 Division Street,"Stevens Point, WI",-89.575535,44.533158,SVP
+905,Curbside Bus Stop only (no shelter),BUS,54481,WI,Stevens Point,2050 4th Avenue,"Stevens Point, WI",-89.571578,44.528941,SVU
+906,Curbside Bus Stop only (no shelter),BUS,95066,CA,Scotts Valley,246 Kings Village Road,"Scotts Valley, CA",-122.027947,37.048984,SVY
+907,Curbside Bus Stop only (no shelter),BUS,28584,NC,Swansboro,809 West Corbett Avenue,"Swansboro, NC",-77.13963,34.697075,SWB
+908,Curbside Bus Stop only (no shelter),BUS,49346,MI,Stanwood,7520 Northland Drive,"Stanwood, MI",-85.451237,43.578627,SWD
+909,Curbside Bus Stop only (no shelter),BUS,13212,NY,Syracuse,1000 Colonel Eileen Collins Blvd,"Syracuse, NY",-76.112243,43.113288,SYA
+910,Curbside Bus Stop only (no shelter),BUS,15865,PA,Sykesville,14 West Main Street,"Sykesville, PA",-78.822691,41.050236,SYK
+912,Station Building (with waiting room),BUS,98402,WA,Tacoma,510 Puyallup Avenue,"Tacoma, Washington",-122.426917,47.240719,TAB
+917,Curbside Bus Stop only (no shelter),BUS,97391,OR,Toledo,250 Northeast Highway 20,"Toledo, OR",-123.939463,44.624184,TDO
+918,Curbside Bus Stop only (no shelter),BUS,93561,CA,Tehachapi,335 West Tehachapi Blvd,"Tehachapi, CA",-118.451143,35.132772,TEH
+919,Curbside Bus Stop only (no shelter),BUS,85281,AZ,Tempe,300 South Ash Avenue,"Tempe, AZ",-111.943154,33.427551,TEM
+920,Curbside Bus Stop only (no shelter),BUS,83301,ID,Twin Falls,1390 Blue Lakes Boulevard North,"Twin Falls, ID",-114.459625,42.586494,TFI
+921,Curbside Bus Stop only (no shelter),BUS,97058,OR,The Dalles,201 East Federal Street,"The Dalles, OR",-121.180275,45.601204,THD
+923,Curbside Bus Stop only (no shelter),BUS,3276,NH,Tilton,63 Laconia Road,"Tilton, NH",-71.56559,43.455699,TLT
+929,Curbside Bus Stop only (no shelter),BUS,97141,OR,Tillamook,3600 3rd Street,"Tillamook, OR",-123.824635,45.456486,TPR
+930,Curbside Bus Stop only (no shelter),BUS,95376,CA,Tracy,725 West Clover Road,"Tracy, CA",-121.436094,37.761409,TRA
+933,Platform only (no shelter),BUS,97439,OR,Florence,5647 OR-126,"Florence, OR",-124.086997,43.982227,TRF
+937,Curbside Bus Stop only (no shelter),BUS,17771,PA,Trout Run,68 State Highway 14,"Trout Run, PA",-77.061606,41.381866,TRR
+939,Curbside Bus Stop only (no shelter),BUS,49684,MI,Traverse City,107 Hall Street,"Traverse City, MI",-85.627845,44.765169,TRV
+940,Curbside Bus Stop only (no shelter),BUS,86023,AZ,Tusayan,Arizona Highway 64,"Tusayan, AZ",-112.126413,35.974367,TSY
+941,Curbside Bus Stop only (no shelter),BUS,97141,OR,Tillamook,204 Laurel Avenue,"Tillamook, OR",-123.842322,45.456934,TTC
+942,Curbside Bus Stop only (no shelter),BUS,97062,OR,Tualatin,Southwest 72nd Ave & Bridgeport Rd,"Tualatin, OR",-122.748789,45.39476,TUA
+945,Curbside Bus Stop only (no shelter),BUS,32159,FL,Lady Lake,13535 North US Highway 441,"The Villages-Lady Lake, FL",-81.957989,28.953067,TVF
+946,Curbside Bus Stop only (no shelter),BUS,48763,MI,Tawas City,1020 West Lake Street,"Tawas City, MI",-83.531059,44.257281,TWC
+949,Curbside Bus Stop only (no shelter),BUS,75702,TX,Tyler,210 East Oakwood Street,"Tyler, TX",-95.299472,32.354642,TYL
+952,Curbside Bus Stop only (no shelter),BUS,95482,CA,Ukiah,397 North Orchard Avenue,"Ukiah, CA",-123.198993,39.154258,UKH
+953,Curbside Bus Stop only (no shelter),BUS,27110,NC,Winston-Salem,"Martin Luther King, Jr. Drive & Excelsior St. ","Winston-Salem, NC",-80.134079,36.053956,UWS
+954,Curbside Bus Stop only (no shelter),BUS,23451,VA,Virginia Beach,Park Avenue & 20th Street,"Virginia Beach, VA",-75.985412,36.845913,VAB
+956,Curbside Bus Stop only (no shelter),BUS,97918,OR,Vale,Malheur County Courthouse,"Vale, OR",-117.241644,43.981043,VAE
+957,Curbside Bus Stop only (no shelter),BUS,94590,CA,Vallejo,311 Sacramento Street,"Vallejo, CA",-122.25924,38.100262,VAL
+960,Station Building (with waiting room),BUS,V8W 2B4,BC,Victoria,721 Douglas St.,"Victoria, BC",-123.366097,48.420955,VBC
+962,Station Building (with waiting room),BUS,V8V 1W9,BC,Victoria,254 Belleville Street,"Victoria, BC",-123.374174,48.422426,VIF
+963,Station Building (with waiting room),BUS,93291,CA,Visalia,425 E. Oak Street,"Visalia, CA",-119.288424,36.331892,VIS
+964,Station Building (with waiting room),BUS,39180,MS,Vicksburg,3046 Indiana Avenue,"Vicksburg, MS",-90.863828,32.329456,VKS
+965,Curbside Bus Stop only (no shelter),BUS,94589,CA,Vallejo,1001 Fairgrounds Drive,"Vallejo, CA",-122.230557,38.138008,VMW
+966,Curbside Bus Stop only (no shelter),BUS,62995,IL,Vienna,504 West Vine Street,"Vienna, IL",-88.897649,37.415384,VNA
+970,Platform only (no shelter),BUS,97487,OR,Veneta,25042 W Broadway,"Veneta, OR",-123.352301,44.051247,VTA
+973,Curbside Bus Stop only (no shelter),BUS,5773,VT,Wallingford,309 North Main Street,"Wallingford, VT",-72.976604,43.476047,WAG
+977,Curbside Bus Stop only (no shelter),BUS,54981,WI,Waupaca,1222 West Fulton Street,"Waupaca, WI",-89.119758,44.356797,WAU
+979,Platform with Shelter,BUS,97071,OR,Woodburn,2900 Tom Tennant Drive,"Woodburn, OR",-122.876382,45.151589,WBN
+980,Curbside Bus Stop only (no shelter),BUS,90045,CA,Westchester,6860 Park Terrace,"Westchester, CA",-118.39239,33.975825,WCH
+981,Curbside Bus Stop only (no shelter),BUS,76701,TX,Waco,301 South 8th Street,"Waco, TX",-97.132345,31.552239,WCX
+984,Station Building (with waiting room),BUS,32694,FL,Waldo,14648 NE 147th Avenue,"Waldo, FL",-82.166727,29.790507,WDO
+985,Curbside Bus Stop only (no shelter),BUS,4572,ME,Waldoboro,1519 Atlantic Highway,"Waldoboro, ME",-69.382112,44.101471,WDR
+986,Curbside Bus Stop only (no shelter),BUS,98801,WA,Wenatchee,300 South Columbia Street,"Wenatchee, WA",-120.307306,47.421062,WEC
+987,Curbside Bus Stop only (no shelter),BUS,67152,KS,Wellington,1400 East 16th Street,"Wellington, KS",-97.381842,37.274929,WEL
+990,Curbside Bus Stop only (no shelter),BUS,90024,CA,Los Angeles,592 Gayley Ave.,"Westwood UCLA, CA",-118.448979,34.068772,WES
+993,Platform only (no shelter),BUS,97492,OR,Westfir,46433 Westfir Road,"Westfir, OR",-122.529506,43.757389,WFR
+996,Platform with Shelter,BUS,82201,WY,Wheatland,91 16th Street,"Wheatland, WY",-104.963919,42.047963,WHT
+997,Platform with Shelter,BUS,67202,KS,Wichita,214 South Topeka Street,"Wichita, KS",-97.334058,37.684706,WIC
+1002,Curbside Bus Stop only (no shelter),BUS,54499,WI,Wittenberg,W17256 Red Oak Lane,"Wittenberg, WI",-89.121201,44.82275,WIT
+1003,Station Building (with waiting room),BUS,18701,PA,Wilkes-Barre,47 South Washington Street,"Wilkes-Barre, PA",-75.883196,41.245024,WKB
+1004,Curbside Bus Stop only (no shelter),BUS,97067,OR,Welches,68280 East Highway 26,"Welches, OR",-121.9629,45.347546,WLC
+1005,Station Building (with waiting room),BUS,17701,PA,Williamsport,11 West Church Street,"Williamsport, PA",-77.000806,41.240347,WLM
+1010,Station Building (with waiting room),BUS,86046,AZ,Williams,1150 West Cataract Lake Road,"Williams, AZ",-112.198135,35.25114,WMH
+1011,Station Building (with waiting room),BUS,28405,NC,Wilmington,505 Cando Street,"Wilmington, NC",-77.874895,34.251192,WMN
+1012,Curbside Bus Stop only (no shelter),BUS,97761,OR,Warm Springs,2172 Highway 26,"Warm Springs, OR",-121.263777,44.763884,WMS
+1018,Station Building (with waiting room),BUS,27101,NC,Winston-Salem,100 West 5th Street,"Winston-Salem, NC",-80.245561,36.099779,WNS
+1019,Curbside Bus Stop only (no shelter),BUS,97146,OR,Warrenton,695 S. Highway 101,"Warrenton, OR",-123.901883,46.161461,WNT
+1025,Curbside Bus Stop only (no shelter),BUS,80402,CO,Winter Park,Cabriolet Way,"Winter Park, CO",-105.761836,39.88369,WPS
+1028,Station Building (with waiting room),BUS,13601,NY,Watertown,1003 Coffeen Street,"Watertown, NY",-75.9326,43.98447,WRT
+1030,Curbside Bus Stop only (no shelter),BUS,54403,WI,Wausau,555 Jefferson Street,"Wausau, WI",-89.624628,44.959456,WSJ
+1033,Curbside Bus Stop only (no shelter),BUS,4578,ME,Wiscasset,639 Bath Road,"Wiscasset, ME",-69.70923,43.975966,WST
+1034,Station Building (with waiting room),BUS,54474,WI,Rothschild,2415 Trailwood Lane,"Wausau-Rothschild, WI",-89.635643,44.854324,WSU
+1038,Curbside Bus Stop only (no shelter),BUS,95490,CA,Willits,298 East Commercial Street,"Willits, CA",-123.351003,39.412597,WTS
+1039,Curbside Bus Stop only (no shelter),BUS,99362,WA,Walla Walla,108 West Main Street,"Walla Walla, WA",-118.341502,46.065989,WWA
+1040,Station Building (with waiting room),BUS,34785,FL,Wildwood,601 North Main Street,"Wildwood, FL",-82.039518,28.866164,WWD
+1042,Curbside Bus Stop only (no shelter),BUS,97498,OR,Yachats,317 West 3rd Street,"Yachats, OR",-124.105457,44.311702,YCH
+1045,Curbside Bus Stop only (no shelter),BUS,95389,CA,Yosemite National Park,9010 Curry Village Drive,"Yosemite National Park, CA",-119.570605,37.73773,YOC
+1046,Curbside Bus Stop only (no shelter),BUS,95389,CA,Yosemite National Park,8028 Big Oak Flat Road,"Yosemite National Park, CA",-119.797145,37.753134,YOF
+1047,Curbside Bus Stop only (no shelter),BUS,95389,CA,Yosemite National Park,1 Forest Drive,"Yosemite National Park, CA",-119.657563,37.537654,YOH
+1048,Curbside Bus Stop only (no shelter),BUS,95389,CA,Yosemite National Park,Mariposa Grove Road,"Yosemite National Park, CA",-119.630341,37.506834,YOM
+1049,Curbside Bus Stop only (no shelter),BUS,95389,CA,Yosemite National Park,9006 Yosemite Lodge Drive,"Yosemite National Park, CA",-119.599331,37.742646,YOS
+1050,Curbside Bus Stop only (no shelter),BUS,95389,CA,Yosemite National Park,Tioga Pass Road,"Yosemite National Park, CA",-119.373801,37.87224,YOT
+1051,Curbside Bus Stop only (no shelter),BUS,95389,CA,Yosemite National Park,9035 Village Drive,"Yosemite National Park, CA",-119.586318,37.748042,YOV
+1052,Curbside Bus Stop only (no shelter),BUS,95389,CA,Yosemite National Park,Old Tioga Road at Highway 120 East,"Yosemite National Park, CA",-119.649293,37.869636,YOW
